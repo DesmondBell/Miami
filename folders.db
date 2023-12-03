@@ -1,0 +1,9 @@
+{"_id": "ZGQ5Zjk0ZmE1NTEx", "name": "Cabal Gang", "flags": {}, "type": "Actor", "color": "", "parent": "Mzk3MDczYWY5MWM3", "sort": 100000}
+{"_id": "Mzk3MDczYWY5MWM3", "name": "Enemies", "flags": {}, "type": "Actor", "color": "", "parent": null, "sort": 100000}
+{"_id": "ZTUxMTc4OWUzNjQ1", "name": "Characters", "flags": {}, "type": "Actor", "color": "", "parent": null, "sort": 200000}
+{"_id": "NjU3M2Q1NDY0ZWVm", "name": "Handouts", "flags": {}, "type": "JournalEntry", "color": "", "parent": null, "sort": 300000}
+{"_id": "ZDdiOTM1MDE1ZDk0", "name": "PDFs", "flags": {}, "type": "JournalEntry", "color": "", "parent": null, "sort": 400000}
+{"_id": "ODMyMjRkYmI3NGRj", "name": "Decks", "flags": {}, "type": "RollTable", "color": "", "parent": null, "sort": 500000}
+{"_id": "NjExMjdkMTQwNjVh", "name": "Decks", "flags": {}, "type": "Item", "color": "", "parent": null, "sort": 600000}
+{"_id": "ODIyMzlmMzM5MDE2", "name": "Safety Deck", "flags": {}, "type": "Item", "color": "", "parent": "NjExMjdkMTQwNjVh", "sort": 700000}
+{"_id": "YWFmNWNmZWU2ZTk3", "name": "Playing Cards", "flags": {}, "type": "Item", "color": "", "parent": "NjExMjdkMTQwNjVh", "sort": 800000}
